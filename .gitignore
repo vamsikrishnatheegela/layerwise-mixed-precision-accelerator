@@ -1,0 +1,12 @@
+# Compiled simulation outputs
+*.vvp
+*.o
+obj_dir/
+build/
+sim_build/
+
+# Editor and temporary files
+*.bak
+*.swp
+*~
+.DS_Store
