@@ -1,0 +1,4 @@
+rtl/mixed_precision_mac.sv:20: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/mixed_precision_mac.sv:20: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/mixed_precision_mac.sv:20: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+rtl/mixed_precision_mac.sv:20: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
